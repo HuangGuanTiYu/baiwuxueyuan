@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MoveSchool/Class/Login/Controller/NewLoginController.m"
+            timestampString = "548734923.3286279"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "613"
+            endingLineNumber = "613"
+            landmarkName = "-loginClick"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__32-[NewLoginController loginClick]_block_invoke_2"
+                  moduleName = "MoveSchool"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/guhaibo/Desktop/git%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80/baiwuxueyuan/%E7%A7%BB%E5%8A%A8%E5%AD%A6%E5%A0%825.0/MoveSchool/Class/Login/Controller/NewLoginController.m"
+                  timestampString = "551169629.152576"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "614"
+                  endingLineNumber = "614"
+                  offsetFromSymbolStart = "1024">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__32-[NewLoginController loginClick]_block_invoke_3"
+                  moduleName = "MoveSchool"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/guhaibo/Desktop/git%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80/baiwuxueyuan/%E7%A7%BB%E5%8A%A8%E5%AD%A6%E5%A0%825.0/MoveSchool/Class/Login/Controller/NewLoginController.m"
+                  timestampString = "551169629.154897"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "616"
+                  endingLineNumber = "616"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
